@@ -262,32 +262,38 @@ The interface was adapted to two main types of devices:
 ### Application Screens
 
 **Home Page**
-
+<br>
 <img src="docs/screenshots/home_page.gif" alt="Home page" width="500">
+<br>
+<img src="docs/screenshots/home_page_sm.gif" alt="Home page smartphone" width="500">
 
 **Article**
-
-<img src="docs/screenshots/article_page.gif" alt="Article page" width="500">
+<br>
+<img src="docs/screenshots/article_page.gif" alt="Home page" width="500">
+<br>
+<img src="docs/screenshots/article_page_sm.gif" alt="Home page smartphone" width="500">
 
 **Comments Section**
-
-<img src="docs/screenshots/comments_section.png" alt="Comments section" width="500">
+<br>
+<img src="docs/screenshots/comments_section.png" alt="Home page" width="500">
 
 **Article List with Sorting and Filtering**
-
-<img src="docs/screenshots/articles_list.png" alt="Article list with sorting and filtering" width="500">
+<br>
+<img src="docs/screenshots/articles_list.png" alt="Home page" width="500">
 
 **List of Articles Written by the Author**
+<br>
+<img src="docs/screenshots/articles_written_list.png" alt="Home page" width="500">
 
-<img src="docs/screenshots/articles_written_list.png" alt="List of articles written by the author" width="500">
-
-**Article Editor**
-
-<img src="docs/screenshots/article_editor.gif" alt="Article editor" width="500">
+**Article Editor** 
+<br>
+<img src="docs/screenshots/article_editor.gif" alt="Home page" width="500">
+<br>
+<img src="docs/screenshots/article_editor_sm.gif" alt="Home page smartphone" width="500">
 
 **Admin Panel**
-
-<img src="docs/screenshots/admin_panel.png" alt="Admin panel" width="500">
+<br>
+<img src="docs/screenshots/admin_panel.png" alt="Home page" width="500">
 
 ## 8. Testing and Results
 
@@ -313,7 +319,7 @@ The tested options included:
 - **Different n-gram settings** – checking how TF-IDF vectorisation settings affect text representation and classification performance.
 
 The results of the experiments are shown below:
-
+<br>
 <img src="docs/experiments.png" alt="Experiment results" width="500">
-
+<br>
 <img src="docs/results.png" alt="Classification results" width="500">
