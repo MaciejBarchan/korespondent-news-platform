@@ -250,27 +250,37 @@ Interfejs został dostosowany do dwóch głównych kategorii urządzeń:
 ### Widoki stron
 
 **Strona główna**
+<br>
 <img src="docs/screenshots/home_page.gif" alt="Home page" width="500">
+<br>
 <img src="docs/screenshots/home_page_sm.gif" alt="Home page smartphone" width="500">
 
 **Artykuł**
+<br>
 <img src="docs/screenshots/article_page.gif" alt="Home page" width="500">
+<br>
 <img src="docs/screenshots/article_page_sm.gif" alt="Home page smartphone" width="500">
 
 **Sekcja komentarzy**
+<br>
 <img src="docs/screenshots/comments_section.png" alt="Home page" width="500">
 
 **Lista artykułów z sortowaniem i filtracją**
+<br>
 <img src="docs/screenshots/articles_list.png" alt="Home page" width="500">
 
 **Lista napisanych artykułów przez autora**
- <img src="docs/screenshots/articles_written_list.png" alt="Home page" width="500">
+<br>
+<img src="docs/screenshots/articles_written_list.png" alt="Home page" width="500">
 
  **Edytor artykułu**
+ <br>
  <img src="docs/screenshots/article_editor.gif" alt="Home page" width="500">
-  <img src="docs/screenshots/article_editor_sm.gif" alt="Home page smartphone" width="500">
+ <br>
+ <img src="docs/screenshots/article_editor_sm.gif" alt="Home page smartphone" width="500">
 
  **Panel admina**
+ <br>
 <img src="docs/screenshots/admin_panel.png" alt="Home page" width="500">
 
 ## 8. Testowanie i wyniki
