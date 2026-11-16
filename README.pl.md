@@ -307,6 +307,7 @@ Testowane warianty obejmowały:
 - **Różne konfiguracje n-gramów** - sprawdzanie wpływu parametrów wektoryzacji TF-IDF na jakość reprezentacji tekstu i skuteczność klasyfikacji.
 
 Oto wyniki przeprowadzonych eksperymentów:
+<br>
 <img src="docs/experiments.png" alt="Home page" width="500">
-
+<br>
 <img src="docs/results.png" alt="Home page" width="500">
